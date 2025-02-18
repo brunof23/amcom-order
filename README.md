@@ -30,8 +30,8 @@ Certifique-se de ter:
   ### 6 - Requisições
   #### Acesse a documentação do Swagger em http://localhost:8080/swagger-ui.html
 
-  ### POST /api/v1/pedidos
-  ### GET /api/v1/pedidos
+  #### POST /api/v1/pedidos
+  #### GET /api/v1/pedidos
 
   ## Tecnologias Utilizadas
   - Java 17
